@@ -82,9 +82,6 @@
     color:black;
 }
 
-#development p:hover {
-    color: #494A54;
-}
 
 #development h3{
     font-family: bodyfont;
@@ -114,9 +111,6 @@
     color:black;
 }
 
-#responsive-redesign p:hover {
-    color: #494A54;
-}
 
 #responsive-redesign h3{
     font-family: bodyfont;
@@ -146,10 +140,6 @@
     color:black;
 }
 
-#personas p:hover {
-    color: #494A54;
-}
-
 #personas h3{
     font-family: bodyfont;
     color:black;
@@ -176,10 +166,6 @@
     font-family: bodyfont;
     font-size: 16px;
     color:black;
-}
-
-#react-studio p:hover {
-    color: #494A54;
 }
 
 #react-studio h3{
